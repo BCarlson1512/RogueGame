@@ -1,10 +1,13 @@
-## Readme for CIS*2430 Assignment 3
+## Readme for RogueGame
 ****************************************
-    Name: Benjamin Carlson
-    Email: carlsonb@uoguelph.ca
-    Student ID: 1044277
+Contacting Me:
+Email: 
+>* benproskilled@gmail.com (Personal)
+>* ben_carlson@web-us.ca (Business)
 ****************************************
->I state that all of my work is my own. Created using my ideas and developed using resources and concepts provided from lectures, textbook, stackoverflow, etc.
+
+## Background
+This program started out as an assignment for an Object Oriented Programming class I was taking at the University of Guelph. I thought that it had potential to be refined, as well as additional functionality added to the program after the course was finished. This program has been posted with permission.
 
 ## Using the program
 ****************************************
@@ -40,7 +43,4 @@
     >* Food: ':' / ';' (Small)
     >* Clothing: ']' / '^' (Ring)
 
-#### Running these commands should -hopefully- run a successful build of assignment 3, if any issues arise, contact the above email.
-
-#### Responsibility analysis:
-## all of the md sheets take methods called from all classes into account
+#### Running these commands should -hopefully- run a successful build of this project, if any issues arise, contact the above email/make an issue on the github repository.
