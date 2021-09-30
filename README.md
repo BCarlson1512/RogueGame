@@ -3,7 +3,6 @@
 Contacting Me:
 Email: 
 >* benproskilled@gmail.com (Personal)
->* ben_carlson@web-us.ca (Business)
 ****************************************
 
 ## Background
